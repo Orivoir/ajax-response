@@ -10,7 +10,7 @@
             "email": "sam.gabor@hotmail.com"
         }
     ],
-    "minimum-stability": "RC",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
