@@ -124,7 +124,7 @@ class StatusText {
 
         foreach( self::ASSOCIATE_STATUS_TYPE as $key => $val ) {
 
-            if( $this->status[0] === $key ) {
+            if( $this->status[0] == $key ) {
 
                 $statusType = $val;
             }

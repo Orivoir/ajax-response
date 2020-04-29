@@ -1,8 +1,8 @@
 <?php
 
-use Ajax\Util\StatusText;
-
 namespace Ajax;
+
+use Ajax\Util\StatusText;
 
 class Response {
 
