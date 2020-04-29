@@ -1,0 +1,21 @@
+{
+    "name": "orivoir/ajax-response",
+    "type": "library",
+    "license": "ISC",
+    "version": "1.0.0",
+    "description": "TODO: write a description here",
+    "authors": [
+        {
+            "name": "Samuel Gaborieau",
+            "email": "sam.gabor@hotmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ajax\\": "/src/Ajax",
+            "Ajax\\Util\\": "/src/Ajax/Util"
+        }
+    }
+}
